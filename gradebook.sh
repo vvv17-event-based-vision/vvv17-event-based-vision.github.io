@@ -8,7 +8,7 @@
 # - curl
 # - jq
 
-org=vvv17-kinematics
+org=vvv17-event-based-vision
 team=vvv17-students
 curdir=$(pwd)
 

@@ -1,16 +1,16 @@
 {
     "tutorials": [
         {
-            "name": "tutorial_gaze-interface",
-            "url": "https://github.com/vvv-school/tutorial_gaze-interface.git",
+            "name": "tutorial_event-data-structures",
+            "url": "https://github.com/vvv-school/tutorial_event-data-structures.git",
             "score": 1
         }        
     ],
     
     "assignments": [
         {
-            "name": "tutorial_cartesian-interface",
-            "url": "https://github.com/vvv-school/tutorial_cartesian-interface.git",
+            "name": "assignment_attention-detection",
+            "url": "https://github.com/vvv-school/assignment_attention-detection.git",
             "score": 3
         }
     ]    
