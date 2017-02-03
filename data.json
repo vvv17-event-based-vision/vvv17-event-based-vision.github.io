@@ -1,5 +1,11 @@
 {
-    "tutorials": [         {
+    "tutorials": [         
+        {
+            "name": "tutorial_event-handling",
+            "url": "https://github.com/vvv-school/tutorial_event-handling.git",
+            "score": 1
+        },
+        {
             "name": "tutorial_event-optical-flow",
             "url": "https://github.com/vvv-school/tutorial_event-optical-flow.git",
             "score": 1
@@ -9,12 +15,12 @@
         {
             "name": "assignment_event-spiking-model",
             "url": "https://github.com/vvv-school/assignment_event-spiking-model.git",
-            "score": 2
+            "score": 3
         },
         {
             "name": "assignment_event-orientation-filter",
             "url": "https://github.com/vvv-school/assignment_event-spiking-model.git",
-            "score": 2
+            "score": 3
         },
         {
             "name": "assignment_event-saliency-map",
