@@ -9,7 +9,7 @@
 # - jq
 
 org=vvv17-event-based-vision
-team=vvv17-teachers
+team=vvv17-students
 curdir=$(pwd)
 
 if [ -d build ]; then 
