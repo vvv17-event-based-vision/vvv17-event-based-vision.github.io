@@ -16,12 +16,7 @@
 
 ### [**arrenglover**](https://github.com/arrenglover) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_event-driven-flow-arrenglover](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-arrenglover) | :white_check_mark: | **1** |
-| [assignment_event-saliency-map-arrenglover](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-arrenglover) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
