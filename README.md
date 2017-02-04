@@ -42,6 +42,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-amalaise](https://github.com/vvv17-event-based-vision/tutorial_event-handling-amalaise) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-amalaise](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-amalaise) | :white_check_mark: | **1** |
+| [assignment_event-spiking-model-amalaise](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-amalaise) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
