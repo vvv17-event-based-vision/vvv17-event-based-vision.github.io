@@ -35,6 +35,7 @@
 | [tutorial_event-driven-flow-AlexisBillier](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-AlexisBillier) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-AlexisBillier](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-AlexisBillier) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-AlexisBillier](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-AlexisBillier) | :x: | **0** |
+| [assignment_event-orientation-filter-AlexisBillier](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-AlexisBillier) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
