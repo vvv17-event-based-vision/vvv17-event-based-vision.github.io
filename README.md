@@ -365,10 +365,10 @@
 | [tutorial_event-handling-NunoDuarte](https://github.com/vvv17-event-based-vision/tutorial_event-handling-NunoDuarte) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-NunoDuarte](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-NunoDuarte) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-NunoDuarte](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-NunoDuarte) | :white_check_mark: | **1** |
-| [assignment_event-spiking-model-NunoDuarte](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-NunoDuarte) | :x: | **0** |
+| [assignment_event-spiking-model-NunoDuarte](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-NunoDuarte) | :white_check_mark: | **3** |
 | [assignment_event-orientation-filter-NunoDuarte](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-NunoDuarte) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
