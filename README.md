@@ -286,6 +286,7 @@
 | [tutorial_event-driven-flow-kompky](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-kompky) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-kompky](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-kompky) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-kompky](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-kompky) | :x: | **0** |
+| [assignment_event-orientation-filter-kompky](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-kompky) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
