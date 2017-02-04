@@ -286,9 +286,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-LuSeKa](https://github.com/vvv17-event-based-vision/tutorial_event-handling-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-LuSeKa](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-LuSeKa) | :white_check_mark: | **1** |
+| [assignment_event-saliency-map-LuSeKa](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-LuSeKa) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-LuSeKa](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-LuSeKa) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
