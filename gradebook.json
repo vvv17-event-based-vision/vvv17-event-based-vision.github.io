@@ -405,12 +405,12 @@
     "assignments": [
       {
         "name": "assignment_event-spiking-model-ipa-bfb",
-        "status": ":x:",
-        "last_commit_date": "2017-02-04 15:00:58 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-04 16:01:24 UTC",
         "score": 3
       }
     ],
-    "score": 2
+    "score": 5
   },
   {
     "username": "jibweb",
