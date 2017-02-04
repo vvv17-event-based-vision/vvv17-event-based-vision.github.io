@@ -186,6 +186,7 @@
 | [tutorial_event-driven-flow-EgorLakomkin](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-EgorLakomkin) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-EgorLakomkin](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-EgorLakomkin) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-EgorLakomkin](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-EgorLakomkin) | :white_check_mark: | **3** |
+| [assignment_event-orientation-filter-EgorLakomkin](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-EgorLakomkin) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
