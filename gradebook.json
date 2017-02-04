@@ -319,6 +319,11 @@
         "name": "tutorial_event-driven-flow-EgorLakomkin",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "assignment_event-saliency-map-EgorLakomkin",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -329,7 +334,7 @@
         "score": 3
       }
     ],
-    "score": 2
+    "score": 3
   },
   {
     "username": "fabian-paus",
