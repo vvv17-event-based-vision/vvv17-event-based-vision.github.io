@@ -271,6 +271,7 @@
 | [tutorial_event-driven-flow-jorisguerin](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-jorisguerin) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-jorisguerin](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-jorisguerin) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-jorisguerin](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-jorisguerin) | :white_check_mark: | **3** |
+| [assignment_event-orientation-filter-jorisguerin](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-jorisguerin) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
