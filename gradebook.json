@@ -464,6 +464,11 @@
         "name": "tutorial_event-driven-flow-jibweb",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "assignment_event-saliency-map-jibweb",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -474,7 +479,7 @@
         "score": 3
       }
     ],
-    "score": 5
+    "score": 6
   },
   {
     "username": "jorisguerin",
