@@ -124,9 +124,9 @@
 | [tutorial_event-handling-BrutusTT](https://github.com/vvv17-event-based-vision/tutorial_event-handling-BrutusTT) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-BrutusTT](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-BrutusTT) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-BrutusTT](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-BrutusTT) | :white_check_mark: | **1** |
-| [assignment_event-spiking-model-BrutusTT](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-BrutusTT) | :x: | **0** |
+| [assignment_event-spiking-model-BrutusTT](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-BrutusTT) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 

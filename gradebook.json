@@ -285,12 +285,12 @@
     "assignments": [
       {
         "name": "assignment_event-spiking-model-BrutusTT",
-        "status": ":x:",
-        "last_commit_date": "2017-02-04 16:12:44 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-04 16:36:49 UTC",
         "score": 3
       }
     ],
-    "score": 3
+    "score": 6
   },
   {
     "username": "crbothe",
