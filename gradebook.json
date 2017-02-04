@@ -328,12 +328,12 @@
     "assignments": [
       {
         "name": "assignment_event-spiking-model-fabian-paus",
-        "status": ":x:",
-        "last_commit_date": "",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-04 15:14:42 UTC",
         "score": 3
       }
     ],
-    "score": 2
+    "score": 5
   },
   {
     "username": "gmmarconi",
