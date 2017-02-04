@@ -85,9 +85,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-BarisSerhan](https://github.com/vvv17-event-based-vision/tutorial_event-handling-BarisSerhan) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-BarisSerhan](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-BarisSerhan) | :white_check_mark: | **1** |
+| [assignment_event-saliency-map-BarisSerhan](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-BarisSerhan) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-BarisSerhan](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-BarisSerhan) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
