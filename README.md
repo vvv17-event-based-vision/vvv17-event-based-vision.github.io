@@ -191,6 +191,7 @@
 | [tutorial_event-driven-flow-fabian-paus](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-fabian-paus) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-fabian-paus](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-fabian-paus) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-fabian-paus](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-fabian-paus) | :white_check_mark: | **3** |
+| [assignment_event-orientation-filter-fabian-paus](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-fabian-paus) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
