@@ -448,12 +448,12 @@
     "assignments": [
       {
         "name": "assignment_event-spiking-model-jorisguerin",
-        "status": ":x:",
-        "last_commit_date": "2017-02-03 22:58:11 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-04 15:42:10 UTC",
         "score": 3
       }
     ],
-    "score": 2
+    "score": 5
   },
   {
     "username": "kompky",
