@@ -91,8 +91,8 @@
     "assignments": [
       {
         "name": "assignment_event-spiking-model-AlexisBillier",
-        "status": ":x:",
-        "last_commit_date": "2017-02-04 18:07:21 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-04 18:10:04 UTC",
         "score": 3
       },
       {
@@ -102,7 +102,7 @@
         "score": 3
       }
     ],
-    "score": 3
+    "score": 6
   },
   {
     "username": "amalaise",
