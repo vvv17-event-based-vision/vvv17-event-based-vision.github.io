@@ -235,6 +235,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-jorisguerin](https://github.com/vvv17-event-based-vision/tutorial_event-handling-jorisguerin) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-jorisguerin](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-jorisguerin) | :white_check_mark: | **1** |
+| [assignment_event-spiking-model-jorisguerin](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-jorisguerin) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
