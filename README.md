@@ -22,10 +22,10 @@
 | [tutorial_event-handling-alexarossi](https://github.com/vvv17-event-based-vision/tutorial_event-handling-alexarossi) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-alexarossi](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-alexarossi) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-alexarossi](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-alexarossi) | :white_check_mark: | **1** |
-| [assignment_event-spiking-model-alexarossi](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-alexarossi) | :x: | **0** |
+| [assignment_event-spiking-model-alexarossi](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-alexarossi) | :white_check_mark: | **3** |
 | [assignment_event-orientation-filter-alexarossi](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-alexarossi) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
