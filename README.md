@@ -416,10 +416,11 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-vicentepedro](https://github.com/vvv17-event-based-vision/tutorial_event-handling-vicentepedro) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-vicentepedro](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-vicentepedro) | :white_check_mark: | **1** |
+| [assignment_event-saliency-map-vicentepedro](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-vicentepedro) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-vicentepedro](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-vicentepedro) | :x: | **0** |
 | [assignment_event-orientation-filter-vicentepedro](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-vicentepedro) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
