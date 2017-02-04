@@ -6,10 +6,11 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-AlexAntn](https://github.com/vvv17-event-based-vision/tutorial_event-handling-AlexAntn) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-AlexAntn](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-AlexAntn) | :white_check_mark: | **1** |
+| [assignment_event-saliency-map-AlexAntn](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-AlexAntn) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-AlexAntn](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-AlexAntn) | :white_check_mark: | **3** |
 | [assignment_event-orientation-filter-AlexAntn](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-AlexAntn) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
