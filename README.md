@@ -333,6 +333,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-towardthesea](https://github.com/vvv17-event-based-vision/tutorial_event-handling-towardthesea) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-towardthesea](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-towardthesea) | :white_check_mark: | **1** |
+| [assignment_event-spiking-model-towardthesea](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-towardthesea) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
