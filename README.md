@@ -392,6 +392,7 @@
 | [tutorial_event-driven-flow-towardthesea](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-towardthesea) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-towardthesea](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-towardthesea) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-towardthesea](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-towardthesea) | :x: | **0** |
+| [assignment_event-orientation-filter-towardthesea](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-towardthesea) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
