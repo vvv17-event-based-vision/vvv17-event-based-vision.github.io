@@ -208,9 +208,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-handling-Iaxama](https://github.com/vvv17-event-based-vision/tutorial_event-handling-Iaxama) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-Iaxama](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-Iaxama) | :white_check_mark: | **1** |
+| [assignment_event-saliency-map-Iaxama](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-Iaxama) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-Iaxama](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-Iaxama) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
