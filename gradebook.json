@@ -542,6 +542,11 @@
         "name": "tutorial_event-driven-flow-kompky",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "assignment_event-saliency-map-kompky",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -552,7 +557,7 @@
         "score": 3
       }
     ],
-    "score": 2
+    "score": 3
   },
   {
     "username": "LawrenceChen-i2r",
