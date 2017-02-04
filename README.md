@@ -147,7 +147,11 @@
 
 ### [**Iaxama**](https://github.com/Iaxama) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_event-handling-Iaxama](https://github.com/vvv17-event-based-vision/tutorial_event-handling-Iaxama) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
