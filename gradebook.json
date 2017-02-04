@@ -258,7 +258,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_event-spiking-model-gmmarconi",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 3
+      }
+    ],
     "score": 2
   },
   {
