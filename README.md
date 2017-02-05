@@ -142,10 +142,10 @@
 | [tutorial_event-handling-crbothe](https://github.com/vvv17-event-based-vision/tutorial_event-handling-crbothe) | :white_check_mark: | **1** |
 | [tutorial_event-driven-flow-crbothe](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-crbothe) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-crbothe](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-crbothe) | :white_check_mark: | **1** |
-| [assignment_event-spiking-model-crbothe](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-crbothe) | :x: | **0** |
+| [assignment_event-spiking-model-crbothe](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-crbothe) | :white_check_mark: | **3** |
 | [assignment_event-orientation-filter-crbothe](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-crbothe) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
