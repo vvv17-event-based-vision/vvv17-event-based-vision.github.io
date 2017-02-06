@@ -351,9 +351,9 @@
 | [tutorial_event-driven-flow-nolbriker](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-nolbriker) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-nolbriker](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-nolbriker) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-nolbriker](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-nolbriker) | :white_check_mark: | **3** |
-| [assignment_event-orientation-filter-nolbriker](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-nolbriker) | :x: | **0** |
+| [assignment_event-orientation-filter-nolbriker](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-nolbriker) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
 
 ---
 
