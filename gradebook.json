@@ -582,12 +582,12 @@
       },
       {
         "name": "assignment_event-orientation-filter-ipa-bfb",
-        "status": ":x:",
-        "last_commit_date": "2017-02-04 18:00:31 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-06 08:31:40 UTC",
         "score": 3
       }
     ],
-    "score": 6
+    "score": 9
   },
   {
     "username": "jibweb",

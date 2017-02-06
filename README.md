@@ -247,9 +247,9 @@
 | [tutorial_event-driven-flow-ipa-bfb](https://github.com/vvv17-event-based-vision/tutorial_event-driven-flow-ipa-bfb) | :white_check_mark: | **1** |
 | [assignment_event-saliency-map-ipa-bfb](https://github.com/vvv17-event-based-vision/assignment_event-saliency-map-ipa-bfb) | :white_check_mark: | **1** |
 | [assignment_event-spiking-model-ipa-bfb](https://github.com/vvv17-event-based-vision/assignment_event-spiking-model-ipa-bfb) | :white_check_mark: | **3** |
-| [assignment_event-orientation-filter-ipa-bfb](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-ipa-bfb) | :x: | **0** |
+| [assignment_event-orientation-filter-ipa-bfb](https://github.com/vvv17-event-based-vision/assignment_event-orientation-filter-ipa-bfb) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
 
 ---
 
