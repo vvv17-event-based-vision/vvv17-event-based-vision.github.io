@@ -1,5 +1,7 @@
 ## Gradebook of VVV17 Robot Event-based Vision
 
+As VVV17 is now over, students repositories have been [archived](https://github.com/vvv17-event-based-vision/vvv17-event-based-vision.github.io/tree/master/archives).
+
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
 | assignment | status | score |
